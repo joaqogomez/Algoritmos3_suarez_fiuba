@@ -1,0 +1,1 @@
+Error subclass: #ManosNoEnterasError	instanceVariableNames: ''	classVariableNames: ''	package: 'TP1-Errors'!Error subclass: #NoHayPintoresError	instanceVariableNames: ''	classVariableNames: ''	package: 'TP1-Errors'!Error subclass: #ValorInvalidoError	instanceVariableNames: ''	classVariableNames: ''	package: 'TP1-Errors'!
